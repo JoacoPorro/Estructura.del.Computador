@@ -9,5 +9,5 @@ Drives:
 
 Dejenme una ⭐! 
 ```diff
-@@ Mandenme drives a jporro@fi.uba.ar! @@
+Mandenme drives a jporro@fi.uba.ar!
 ```
