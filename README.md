@@ -8,6 +8,3 @@ Drives:
 * https://drive.google.com/drive/folders/1ie9ieyASbLvhabaRNlBJpEsbB2vgBzn5?usp=sharing
 
 Dejenme una ⭐! 
-```diff
-+ Mandenme drives a jporro@fi.uba.ar!
-```
