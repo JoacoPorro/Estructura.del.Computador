@@ -1,4 +1,4 @@
-# EstructuraDelComputador
+# Estructura Del Computador
 Material de Estructura del computador FIUBA
 
 Drives:
