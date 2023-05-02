@@ -7,4 +7,8 @@ Drives:
 * https://drive.google.com/drive/u/3/folders/1llAch6aHBG9hIbhnHeSSazlCoiPV9QL6
 * https://drive.google.com/drive/folders/1ie9ieyASbLvhabaRNlBJpEsbB2vgBzn5?usp=sharing
 
+
+Clases:
+* https://drive.google.com/drive/folders/1vm0VCwdS6_fx9IVMjwp08IHxVP4R6aAh?usp=sharing
+
 Dejenme una ⭐! 
