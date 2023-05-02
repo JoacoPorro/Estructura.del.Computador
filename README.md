@@ -9,6 +9,6 @@ Drives:
 
 
 Clases:
-* https://drive.google.com/drive/folders/1vm0VCwdS6_fx9IVMjwp08IHxVP4R6aAh?usp=sharing
+* https://drive.google.com/drive/folders/1vm0VCwdS6_fx9IVMjwp08IHxVP4R6aAh?usp=sharing (de la segunda mitad)
 
 Dejenme una ⭐! 
