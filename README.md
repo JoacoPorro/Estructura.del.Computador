@@ -15,3 +15,4 @@ Links:
 * https://drive.google.com/drive/u/1/folders/1gEFW65eulv041XpZFRDRVdU3rIsGle5Z (Drives guardados en zips por si pasa algo con los originales)
 
 Dejame una ⭐! 
+Viva la Libertad Carajo! 🐍🐍
