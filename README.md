@@ -1,7 +1,6 @@
 # Estructura Del Computador
-Material de Estructura del computador FIUBA
-
-Dejame una ⭐! 
+###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo.
+##### Dejame una ⭐!
 
 Drives:
 * https://drive.google.com/drive/folders/1ie9ieyASbLvhabaRNlBJpEsbB2vgBzn5?usp=sharing
