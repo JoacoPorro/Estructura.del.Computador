@@ -1,5 +1,5 @@
 # Estructura Del Computador
-###### Se agradece toda la generosidad! Pasen sus drives a jporro@fi.uba.ar
+###### Pasa drives -> jporro@fi.uba.ar
 ##### Dejame una ⭐!
 
 Drives:
