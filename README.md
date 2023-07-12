@@ -15,6 +15,7 @@ Clases:
 
 Links:
 * http://wiki.foros-fiuba.com.ar/materias:66:70 (Hay Modelos de Finales)
+* https://github.com/Lukas-De-Angelis-Riva/66.70-Estructura-del-computador (Resueltos de Assembler)
 * https://drive.google.com/drive/u/1/folders/1gEFW65eulv041XpZFRDRVdU3rIsGle5Z (Drives guardados en zips por si pasa algo con los originales)
 
 ### Viva la Libertad Carajo!
