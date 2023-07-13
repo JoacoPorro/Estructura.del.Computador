@@ -1,5 +1,5 @@
 # Estructura Del Computador
-###### Pasa drives -> jporro@fi.uba.ar
+###### Manden drives -> jporro@fi.uba.ar
 ##### Dejame una ⭐!
 
 Drives:
