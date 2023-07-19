@@ -1,6 +1,5 @@
 # Material Estructura Del Computador
-###### Manden drives --> jporro@fi.uba.ar
-##### Dejame una ⭐!
+###### Drives que falten --> jporro@fi.uba.ar
 
 Drives:
 * https://drive.google.com/drive/folders/1ie9ieyASbLvhabaRNlBJpEsbB2vgBzn5
@@ -19,4 +18,5 @@ Links:
 * https://github.com/Lukas-De-Angelis-Riva/66.70-Estructura-del-computador (Resueltos de Assembler)
 * https://drive.google.com/drive/u/1/folders/1gEFW65eulv041XpZFRDRVdU3rIsGle5Z (Drives guardados en zips por si pasa algo con los originales)
 
+### Dejame una ⭐!
 ### Viva la Libertad Carajo!
