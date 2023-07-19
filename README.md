@@ -1,5 +1,5 @@
 # Material Estructura Del Computador
-###### Manden drives -> jporro@fi.uba.ar
+###### Manden drives --> jporro@fi.uba.ar
 ##### Dejame una ⭐!
 
 Drives:
