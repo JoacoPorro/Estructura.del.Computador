@@ -1,13 +1,7 @@
 # Material Estructura Del Computador
 ###### Drives que tengan --> jporro@fi.uba.ar
 
-<table><tr><td>
-<pre>
-**Hello**,
-
-_world_.
-</pre>
-</td></tr></table>
+<style> p{color:red;} </style>
 
 ### Drives:
 * https://drive.google.com/drive/folders/1ie9ieyASbLvhabaRNlBJpEsbB2vgBzn5 (El mejor)
