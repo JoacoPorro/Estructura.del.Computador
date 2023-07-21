@@ -10,7 +10,8 @@
 
 
 ### Clases:
-* https://drive.google.com/drive/folders/1vm0VCwdS6_fx9IVMjwp08IHxVP4R6aAh?usp=sharing (Teoricas)
+* [Teoricas](https://drive.google.com/drive/folders/1vm0VCwdS6_fx9IVMjwp08IHxVP4R6aAh?usp=sharing)
+* Estoy buscando las Practicas, si alguno las tiene arriba esta mi mail
 
 ### Links:
 * [Finales Resueltos](https://cmauro-fiuba.notion.site/Finales-d81c906ff4c14e1ab9b5cc0d45f31084) &#9472; [Resumen Para Final](https://cmauro-fiuba.notion.site/Resumen-ideas-2d73dd6c3d704324a5634f6b1c735d25) &#9472; [Notion Completo](https://cmauro-fiuba.notion.site/cmauro-fiuba/Estructura-del-Computador-6f3b257589a743a885af1d1d07ba06a4) (Tiene material de toda la materia, resumenes, resueltos)
