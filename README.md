@@ -1,5 +1,5 @@
 # Material Estructura Del Computador
-###### Drives que tengan --> jporro@fi.uba.ar
+###### Drives --> jporro@fi.uba.ar
 
 ### Drives:
 * https://drive.google.com/drive/folders/1ie9ieyASbLvhabaRNlBJpEsbB2vgBzn5 (El mejor)
