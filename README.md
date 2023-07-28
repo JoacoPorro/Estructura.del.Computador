@@ -1,4 +1,4 @@
-# Material Estructura Del Computador FIUBA
+# Material Estructura del Computador FIUBA
 ###### Drives --> jporro@fi.uba.ar
 
 ### Drives:
