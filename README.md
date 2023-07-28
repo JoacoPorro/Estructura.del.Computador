@@ -19,6 +19,7 @@
 ### Links:
 * [Finales Resueltos](https://cmauro-fiuba.notion.site/Finales-d81c906ff4c14e1ab9b5cc0d45f31084) &#9472; [Resumen Para Final](https://cmauro-fiuba.notion.site/Resumen-ideas-2d73dd6c3d704324a5634f6b1c735d25) &#9472; [Notion Completo](https://cmauro-fiuba.notion.site/cmauro-fiuba/Estructura-del-Computador-6f3b257589a743a885af1d1d07ba06a4) (Con material de toda la materia)
 * [Otro Notion](https://knotty-enquiry-da1.notion.site/Estructura-del-Computador-fca7cf5347cd402ab137e166facb31cf) - [Ejercicios de Final](https://knotty-enquiry-da1.notion.site/Finales-05456a8e8d894edb917ead30b13ca43c)
+* [Mapa Interactivo del Murdocca](https://fede.dm/figure-610)
 * [Wiki FIuba](http://wiki.foros-fiuba.com.ar/materias:66:70) (Con modelos de finales)
 * [Resueltos de Assembler](https://github.com/Lukas-De-Angelis-Riva/66.70-Estructura-del-computador)
 * [Drives en zips por las dudas](https://drive.google.com/drive/u/1/folders/1gEFW65eulv041XpZFRDRVdU3rIsGle5Z)
