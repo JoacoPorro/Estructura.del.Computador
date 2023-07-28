@@ -14,7 +14,7 @@
 
 ### Clases:
 * [Teoricas](https://drive.google.com/drive/folders/1vm0VCwdS6_fx9IVMjwp08IHxVP4R6aAh?usp=sharing)
-* (Estoy buscando las Practicas, si alguno las tiene arriba esta mi mail)
+* _(Estoy buscando las Practicas, si alguno las tiene arriba esta mi mail)_
 
 ### Links:
 * [Assembler Resueltos](https://github.com/Lukas-De-Angelis-Riva/66.70-Estructura-del-computador)
