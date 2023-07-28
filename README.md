@@ -2,7 +2,7 @@
 ###### Drives --> jporro@fi.uba.ar
 
 ### Drives:
-* https://drive.google.com/drive/folders/1ie9ieyASbLvhabaRNlBJpEsbB2vgBzn5 (El mejor)
+* https://drive.google.com/drive/folders/1ie9ieyASbLvhabaRNlBJpEsbB2vgBzn5 _(El mejor)_
 * https://drive.google.com/drive/folders/166bLpxt3p_phntKAXVso9IXkJZXLC2NA
 * https://drive.google.com/drive/folders/1-Q4c5utFlkJwL1ihXY1ZjFyzazwPxYbQ
 * https://drive.google.com/drive/folders/1cy2HIGm0WL6cqfCcqUH3E3RCwB9QjnCj
@@ -17,7 +17,7 @@
 * (Estoy buscando las Practicas, si alguno las tiene arriba esta mi mail)
 
 ### Links:
-* [_Assembler Resueltos_](https://github.com/Lukas-De-Angelis-Riva/66.70-Estructura-del-computador)
+* [Assembler Resueltos](https://github.com/Lukas-De-Angelis-Riva/66.70-Estructura-del-computador)
 * [Muy buen Notion _(hay ejercicios de final)_](https://knotty-enquiry-da1.notion.site/Estructura-del-Computador-fca7cf5347cd402ab137e166facb31cf)
 * [Otro Notion _(hay ejercicios de final)_](https://cmauro-fiuba.notion.site/cmauro-fiuba/Estructura-del-Computador-6f3b257589a743a885af1d1d07ba06a4)
 * [Mapa Interactivo del Murdocca](https://fede.dm/figure-610)
