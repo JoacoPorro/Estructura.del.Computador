@@ -19,7 +19,7 @@
 ### Links:
 * [Resueltos de Assembler](https://github.com/Lukas-De-Angelis-Riva/66.70-Estructura-del-computador)
 * [Muy buen Notion _(hay ejercicios de final)_](https://knotty-enquiry-da1.notion.site/Estructura-del-Computador-fca7cf5347cd402ab137e166facb31cf)
-* [Otro Notion](https://cmauro-fiuba.notion.site/cmauro-fiuba/Estructura-del-Computador-6f3b257589a743a885af1d1d07ba06a4) &#9472; [(aca Finales Resueltos)](https://cmauro-fiuba.notion.site/Finales-d81c906ff4c14e1ab9b5cc0d45f31084) 
+* [Otro Notion _(hay ejercicios de final)_](https://cmauro-fiuba.notion.site/cmauro-fiuba/Estructura-del-Computador-6f3b257589a743a885af1d1d07ba06a4)
 * [Mapa Interactivo del Murdocca](https://fede.dm/figure-610)
 * [Wiki FIuba](http://wiki.foros-fiuba.com.ar/materias:66:70) (Con modelos de finales)
 * [Drives en zips por las dudas](https://drive.google.com/drive/u/1/folders/1gEFW65eulv041XpZFRDRVdU3rIsGle5Z)
