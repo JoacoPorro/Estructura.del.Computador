@@ -13,7 +13,7 @@
 * [Murdocca Español](https://drive.google.com/file/d/1ebrefHmyNybQvgyR6kX67SbBXgCpeuxy/view?usp=sharing)
 
 ### Clases:
-* [Teoricas _Mazzeo_](https://drive.google.com/drive/folders/1vm0VCwdS6_fx9IVMjwp08IHxVP4R6aAh?usp=sharing)
+* [Teoricas ](https://drive.google.com/drive/folders/1vm0VCwdS6_fx9IVMjwp08IHxVP4R6aAh?usp=sharing)
 * _(Buscando las practicas, si alguno las tiene arriba esta mi mail)_
 
 ### Links:
