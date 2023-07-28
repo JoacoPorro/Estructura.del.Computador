@@ -2,7 +2,7 @@
 ###### Drives --> jporro@fi.uba.ar
 
 ### Drives:
-* https://drive.google.com/drive/folders/1ie9ieyASbLvhabaRNlBJpEsbB2vgBzn5 _(El mejor)_
+* https://drive.google.com/drive/folders/1ie9ieyASbLvhabaRNlBJpEsbB2vgBzn5 (El mejor)
 * https://drive.google.com/drive/folders/166bLpxt3p_phntKAXVso9IXkJZXLC2NA
 * https://drive.google.com/drive/folders/1-Q4c5utFlkJwL1ihXY1ZjFyzazwPxYbQ
 * https://drive.google.com/drive/folders/1cy2HIGm0WL6cqfCcqUH3E3RCwB9QjnCj
