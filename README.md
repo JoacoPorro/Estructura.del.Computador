@@ -24,7 +24,7 @@
 * [Assembler Resueltos _(no esta claro cuales estan bien y cuales no)_](https://github.com/Lukas-De-Angelis-Riva/66.70-Estructura-del-computador)
 * [Mapa Interactivo del Murdocca](https://fede.dm/figure-610)
 * [Wiki FIuba _(con modelos de final)_](http://wiki.foros-fiuba.com.ar/materias:66:70)
-* [Drives en zips por las dudas](https://drive.google.com/drive/u/1/folders/1gEFW65eulv041XpZFRDRVdU3rIsGle5Z)
+<!-- * [Drives en zips por las dudas](https://drive.google.com/drive/u/1/folders/1gEFW65eulv041XpZFRDRVdU3rIsGle5Z) -->
 <!-- https://sites.radford.edu/~mhtay/CPSC352/ -->
 
   
