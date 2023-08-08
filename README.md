@@ -13,6 +13,7 @@
 * [Murdocca Español](https://drive.google.com/file/d/1YuY4BiHoeHq5nGd5YZvk95IYsg-QjgHJ/view?usp=sharing)
 
 <!-- Agregar Ginzburg -->
+<!-- Agregar https://github.com/gcc-cdimatteo/Estructura-del-Computador-66.70/tree/main/RESUMENES -->
 
 ### Clases:
 * [Teoricas ](https://drive.google.com/drive/folders/1vm0VCwdS6_fx9IVMjwp08IHxVP4R6aAh?usp=sharing)
