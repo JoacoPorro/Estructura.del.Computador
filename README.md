@@ -17,7 +17,7 @@
 
 ### Clases:
 * [Teoricas ](https://drive.google.com/drive/folders/1vm0VCwdS6_fx9IVMjwp08IHxVP4R6aAh?usp=sharing)
-* _(Buscando las practicas, si alguno las tiene arriba esta mi mail)_
+* _(Buscando las practicas, si alguno las graba suba el drive)_
 
 ### Links:
 * [Muy buen Notion _(hay ejercicios de final)_](https://knotty-enquiry-da1.notion.site/Estructura-del-Computador-fca7cf5347cd402ab137e166facb31cf)
