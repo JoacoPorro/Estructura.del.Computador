@@ -1,5 +1,5 @@
 # Material Estructura del Computador FIUBA
-###### Drives a repos.libertarias@gmail.com
+###### Drives --> repos.libertarias@gmail.com
 
 ### Drives:
 * https://drive.google.com/drive/folders/1ie9ieyASbLvhabaRNlBJpEsbB2vgBzn5 (El mejor)
