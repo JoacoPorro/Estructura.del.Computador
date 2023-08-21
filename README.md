@@ -11,6 +11,8 @@
 ### Libros:
 * [Murdocca Ingles](https://drive.google.com/file/d/1MhZQ2r_Ok2Cm509sQ2-7oUbSjUOalvNY/view?usp=sharing)
 * [Murdocca Español](https://drive.google.com/file/d/1YuY4BiHoeHq5nGd5YZvk95IYsg-QjgHJ/view?usp=sharing)
+* [Ginzburg Drive](https://drive.google.com/drive/folders/1cA9AoVxlVc0w_eVgqkVoSngxIZfk6FyQ?usp=sharing)
+* [Ginzburg Google Books](https://books.google.com.gt/books?id=Bzykb1ajDnsC&lpg=PR4&pg=PP1#v=onepage&q&f=false)
 
 <!-- Agregar Ginzburg -->
 <!-- Agregar https://github.com/gcc-cdimatteo/Estructura-del-Computador-66.70/tree/main/RESUMENES -->
