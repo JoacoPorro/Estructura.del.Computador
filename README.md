@@ -29,7 +29,5 @@
 <!-- * [Drives en zips por las dudas](https://drive.google.com/drive/u/1/folders/1gEFW65eulv041XpZFRDRVdU3rIsGle5Z) -->
 <!-- https://sites.radford.edu/~mhtay/CPSC352/ -->
 
-  
-###### Drives --> repos.libertarias@gmail.com
 ### Deja **⭐** Arriba
 ### Viva la Libertad Carajo!
